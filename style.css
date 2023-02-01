@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(73, 46, 192);
+    color: rgb(220, 17, 17);
+}
+
+h1{
+    font-size: 65px;
+}
+
+p{
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(28, 203, 124);
+}
+
+.destacado{
+    color: red;
+}
+
+
+#destacado p{
+    color: rgb(255, 0, 255);
+    font-weight: bold;
+}
